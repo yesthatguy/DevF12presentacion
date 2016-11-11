@@ -1,0 +1,25 @@
+body {
+  background-color: khaki;
+  color: red;
+  font-family: sans-serif;
+}
+h1 {
+  color: red;
+  font-size: 500%;
+  font-family: Verdana, sans-serif;
+}
+h2 {
+  color: blue;
+  font-size: 3em;
+  font-family: "Courier New", monospace;
+}
+p, ul, ol {
+  background-color: RGB(255, 30, 150);
+  color: blue;
+  border-style: double;
+  border-color: red;
+}
+
+:hover {
+  color: lime;
+}
